@@ -1,16 +1,32 @@
-# mandala
+# Mandala Application
 
-A new Flutter application.
+Flutter application for MANDALA: The Mind Circle (Mental Health Club)
 
-## Getting Started
+## Download the Application from PlayStore on your Android Device from ***[here](https://play.google.com/store/apps/details?id=com.srmuniversity.mandala)*** 
 
-This project is a starting point for a Flutter application.
+Mandala: The Mind Circle is the mental health society of SRM University, Delhi NCR. This society focuses on the mental well being of every student in the university and extends help to anyone who is dealing with a psychological crisis.  
+  
+We want to make sure that nobody in the university is going through mental issues or traumas, and thus we wish to provide relief and a safe space where you can discuss such issues.  
 
-A few resources to get you started if this is your first Flutter project:
+Learn more about Mandala! View our [blog.](https://mandalasrm.blogspot.com/)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Features:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**  
+
+ - Mandala app has a built-in reader to access the latest blogs by our
+   members.
+   
+ - The app has multiple sign-in options. Users can choose to sign-in
+   using a Google   account or an Email Account or can go Anonymous!
+   
+ - The app comes with 'Request a counseling session' form to book a
+   session from within the application.
+   
+ - The 'About' section of the app, guides you to our Instagram handle
+   where the latest information about the club and its activities can be
+   availed.
+   
+We want to make sure that nobody in the university is going through mental issues or traumas, and thus we wish to provide relief and a safe space where you can discuss such issues.  
+  
+This society was formed recently in the month of March. We weren't able to organize any activities within the campus but we plan on doing so once the university reopens.  
