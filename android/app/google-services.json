@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1032977685399",
+    "firebase_url": "https://mandala-723ae.firebaseio.com",
+    "project_id": "mandala-723ae",
+    "storage_bucket": "mandala-723ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032977685399:android:506faa86cd12c5c0a342d2",
+        "android_client_info": {
+          "package_name": "com.srmuniversity.mandala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032977685399-gq61i1g50b19k95lcq48lj4g5b9r7h81.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.srmuniversity.mandala",
+            "certificate_hash": "9d37a88bc26663357e727bb1984740ac8843267b"
+          }
+        },
+        {
+          "client_id": "1032977685399-3eaf87jik35rrgqsv40u9r7l83ofvsjr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.srmuniversity.mandala",
+            "certificate_hash": "41d17394bee49c45ba10b6338c2a094a93cb9860"
+          }
+        },
+        {
+          "client_id": "1032977685399-pl9u1ta3cl4bi6pnak94ct47ps4a12ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAewLmWr7hXDfqcWkAqFvw1oARIG8snSQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032977685399-pl9u1ta3cl4bi6pnak94ct47ps4a12ki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
